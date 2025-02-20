@@ -1,0 +1,20 @@
+{
+  "name": "bloggin-site",
+  "version": "1.0.0",
+  "description": "![Image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/naxpa0453a6bhd69ci1c.png)",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon /backend/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bloggin-site": "file:",
+    "express-fileupload": "^1.2.1",
+    "express.js": "^1.0.0",
+    "firebase": "^11.3.1",
+    "nodemon": "^2.0.12"
+  },
+  "keywords": [],
+  "type": "commonjs"
+}
